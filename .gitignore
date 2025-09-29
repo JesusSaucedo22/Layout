@@ -1,0 +1,28 @@
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Others
+*.log
+*.cache
+Layout/
